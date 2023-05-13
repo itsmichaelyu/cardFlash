@@ -1,11 +1,11 @@
 # cardFlash: Quizlet but Better!
 
 <p align="center">
+    <img src="./assets/cardFlash.png">
+    <img src="./assets/banner.png">
     <a href="https://apps.apple.com/app/id6443405970">
         <img src="./assets/Download_on_the_App_Store_Badge_US-UK_RGB_blk_092917.svg" width="180" alt="Download cardFlash on the Apple App Store"/>
     </a>
-</p>
-<p align="center">
     <a href="https://play.google.com/store/apps/details?id=com.michaelyu.cardFlash">
         <img src="./assets/google-play-badge.png" width="200" height="80" alt="Download cardFlash on the Google Play Store"/>
     </a>
