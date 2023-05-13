@@ -16,8 +16,10 @@
 --->
 ## Features
 - Import from Quizlet
+- Sharing via QR codes
 - Creation of your own sets
-- Flashcard Mode
+- Folders
+- Flashcard Mode with Smart Mode
 - Adaptive Mode (Similar to Quizlet Learn)
 
 ## Issues and Features
